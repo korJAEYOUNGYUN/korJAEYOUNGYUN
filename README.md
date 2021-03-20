@@ -2,10 +2,12 @@
 
 <br>
 
-✨ Always looking for something interesting, creative and artistic!
+💡 Always looking for something interesting, creative and artistic!
 
-📝 I'm currently learning about developing iOS apps.
+📝 iOS engineer
 
-<br><br>
+✨ coffee, swift, python
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korJAEYOUNGYUN&layout=compact&theme=radical)](https://github.com/korJAEYOUNGYUN)
