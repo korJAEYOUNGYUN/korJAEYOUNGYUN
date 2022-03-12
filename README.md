@@ -1,13 +1,26 @@
-#   :hand: Hello, there!  I'm Jaeyoung Yun.
+# Jaeyoung Yun
 
-<br>
+Hi, I'm jaeyoung.  
+I'm a software engineer mainly on iOS.  
 
-💡 Always looking for something interesting, creative and artistic!
+## My values
 
-📝 iOS engineer
+💡 Interesting, creative and artistic
 
-✨ coffee, swift, python
+✨ Responsible, sensible
 
-<br>
+🙌 Shared information
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korJAEYOUNGYUN&layout=compact&theme=radical)](https://github.com/korJAEYOUNGYUN)
+## Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaeyoung-yun-63a52a205/)](https://www.linkedin.com/in/jaeyoung-yun-63a52a205/)  &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lastmore9@gmail.com)](mailto:lastmore9@gmail.com)
+              
+## Github Stats
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=korJAEYOUNGYUN&count_private=true&show_icons=true&theme=radical&line_height=27" />
+</a>
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korJAEYOUNGYUN&theme=radical&langs_count=3&hide=html,scss" />
+</a>
